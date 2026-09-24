@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orbit by YunZheng LAB — products and links</title>
+<meta name="description" content="Orbit, the network and communications platform of YunZheng LAB: anycast DNS, a public resolver, Shield, RPKI, Pages, Realtime, Stream, VOD, Talk, Mail, Meet and V-Gate.">
+<link rel="canonical" href="https://orbit.yunzheng.space/">
+<meta property="og:title" content="Orbit by YunZheng LAB">
+<meta property="og:description" content="Orbit, the network and communications platform of YunZheng LAB: anycast DNS, a public resolver, Shield, RPKI, Pages, Realtime, Stream, VOD, Talk, Mail, Meet and V-Gate.">
+<meta property="og:url" content="https://orbit.yunzheng.space/">
+<meta property="og:type" content="website">
+<style>
+:root{--bg:#fff;--fg:#111;--dim:#555;--line:#ddd;--blue:#006cd2}
+@media (prefers-color-scheme:dark){:root{--bg:#0b0b0c;--fg:#eee;--dim:#a3a3a3;--line:#2a2a2a;--blue:#4ea2ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"PingFang SC","Microsoft YaHei",sans-serif}
+main{max-width:880px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:32px;margin:0 0 8px}
+h2{font-size:20px;margin:40px 0 12px;border-bottom:1px solid var(--line);padding-bottom:8px}
+p{margin:0 0 12px;color:var(--dim)}
+a{color:var(--blue)}
+.links a{display:inline-block;margin:0 16px 8px 0}
+ul{list-style:none;margin:0;padding:0}
+li{padding:12px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:180px 1fr;gap:16px}
+li a{font-weight:600;text-decoration:none}
+li span{color:var(--dim);font-size:15px}
+@media (max-width:600px){li{grid-template-columns:1fr;gap:4px}}
+footer{margin-top:48px;font-size:14px;color:var(--dim)}
+</style>
+</head>
+<body>
+<main>
+<h1>Orbit</h1>
+<p>Orbit (AS204921): anycast DNS, a public resolver, Shield, RPKI, Verify, Pages, Realtime, Stream, VOD, Mail, Meet and V-Gate. Free for non-commercial use.</p>
+<p class="links"><a href="https://orbit.yunzheng.space/">Website</a><a href="https://dash.yunzheng.space/">Console</a><a href="https://orbit.yunzheng.space/docs/">Documentation</a><a href="https://orbit.yunzheng.space/docs/api/">API</a><a href="https://orbit.yunzheng.space/zh/" hreflang="zh">中文</a></p>
+<h2>Products</h2>
+<ul>
+<li><a href="https://orbit.yunzheng.space/public-resolver/">Public Resolver</a><span>Free anycast public DNS: 177.177.83.83 resolves everything, 177.177.83.84 filters ads and malware, 177.177.83.64 adds DNS64. DoH, DoT and DoQ. No query logs.</span></li>
+<li><a href="https://orbit.yunzheng.space/rpki/">RPKI</a><span>Hosted RPKI for networks with their own addresses: create ROAs in a console, publish to our repository, feed routers via RTR. Free: one CA, 50 ROAs.</span></li>
+<li><a href="https://orbit.yunzheng.space/verify/">Verify</a><span>A CAPTCHA alternative for web forms: invisible for most visitors, one click only when risk is high, no cookies or tracking. Free for non-commercial sites.</span></li>
+<li><a href="https://orbit.yunzheng.space/link/">Link</a><span>A connector on the origin makes one outbound connection to the Orbit edge; Shield serves the site through it. No inbound ports, no public address.</span></li>
+<li><a href="https://orbit.yunzheng.space/pages/">Pages</a><span>Upload a folder; it is served from every location we run, on your own hostname, with a certificate and Shield’s edge rules. Free for up to two projects.</span></li>
+<li><a href="https://orbit.yunzheng.space/realtime/">Realtime</a><span>Voice and video rooms carried on the Orbit network. Join by link with nothing to install, or put a room inside your own page with one script tag.</span></li>
+<li><a href="https://orbit.yunzheng.space/stream/">Stream</a><span>Publish a live broadcast over RTMPS from the software you already use; viewers watch over HLS, delivered from the same edge that serves every Orbit site.</span></li>
+<li><a href="https://orbit.yunzheng.space/vod/">VOD</a><span>Upload a video once. It is transcoded on our own nodes into a ladder of qualities and served from vod.yunzheng.space, on the same edge as every Orbit site.</span></li>
+<li><a href="https://orbit.yunzheng.space/talk/">Talk</a><span>Add chat to a product or a broadcast with one script tag. Conversations keep history; live chat keeps the last few hundred lines. Free to start.</span></li>
+<li><a href="https://orbit.yunzheng.space/mail/">Mail</a><span>Mailboxes, groups and aliases on your own domain, a complete web mailbox for everyone in the organisation, and one console to run it. Free for personal use.</span></li>
+<li><a href="https://orbit.yunzheng.space/meet/">Meet</a><span>Video meetings in the browser: waiting room, screen sharing, captions, breakout rooms, polls and recordings, with organisation policies in one console.</span></li>
+<li><a href="https://orbit.yunzheng.space/vgate/">V-Gate</a><span>A hosted phone system for your organisation: extensions, IVR menus, ring groups, queues, business hours and voicemail, answered in a browser or on desk phones.</span></li>
+</ul>
+<h2>Apps built on Orbit</h2>
+<ul>
+<li><a href="https://yunzheng.space/service/voice">YunZheng Voice</a><span>A phone in your browser: calls on your extension, voicemail, call history, forwarding and queue sign-in, plus a free number that rings all your devices.</span></li>
+<li><a href="https://yunzheng.space/service/meet">YunZheng Meet</a><span>Free online meetings in your browser: no download, guests join from a link. Waiting room, screen sharing, live captions, breakout rooms, polls and cloud recording.</span></li>
+<li><a href="https://yunzheng.space/service/mail">YunZheng Mail</a><span>Web mail on your own domain: conversations, labels, filters, undo send, snooze, search, shared mailboxes and groups. Free for personal use.</span></li>
+</ul>
+<h2>For developers</h2>
+<ul>
+<li><a href="https://orbit.yunzheng.space/docs/api/">Orbit API</a><span>One REST API for everything the console does, with an OpenAPI document.</span></li>
+<li><a href="https://github.com/yunzheng2006/orbit-vgate-examples">orbit-vgate-examples</a><span>Runnable examples for the phone system API: list and import extensions, export call logs, Voice numbers.</span></li>
+</ul>
+<footer>Orbit is a project of <a href="https://yunzheng.space/">YunZheng LAB</a> (AS204921). Source of this page: <a href="https://github.com/yunzheng2006/orbit-platform">github.com/yunzheng2006/orbit-platform</a>.</footer>
+</main>
+</body>
+</html>
