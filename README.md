@@ -32,6 +32,10 @@ DNS hosting and Shield (the edge in front of your sites) are described on the [O
 | [YunZheng Voice](https://yunzheng.space/service/voice) | A phone in your browser: calls on your extension, voicemail, call history, forwarding and queue sign-in, plus a free number that rings all your devices. |
 | [YunZheng Meet](https://yunzheng.space/service/meet) | Free online meetings in your browser: no download, guests join from a link. Waiting room, screen sharing, live captions, breakout rooms, polls and cloud recording. |
 | [YunZheng Mail](https://yunzheng.space/service/mail) | Web mail on your own domain: conversations, labels, filters, undo send, snooze, search, shared mailboxes and groups. Free for personal use. |
+| [YunZheng Workspace](https://yunzheng.space/service/workspace) | Desktop and mobile app for Mail, Meet and Voice behind one sign-in, with new-mail notifications. macOS, Windows and Android; iPhone coming. |
+| [YunZheng Voice app](https://yunzheng.space/service/voice/softphone) | A free SIP softphone for macOS, Windows and Android: any SIP phone system, or YunZheng Voice numbers by signing in; a call window on the desktop. |
+
+Downloads: [yunzheng.space/downloads](https://yunzheng.space/downloads) · Releases: [yunzheng2006/yunzheng-apps](https://github.com/yunzheng2006/yunzheng-apps/releases)
 
 ## For developers
 
@@ -41,6 +45,10 @@ DNS hosting and Shield (the edge in front of your sites) are described on the [O
 ## Compared with
 
 YunZheng Voice: [Google Voice](https://yunzheng.space/service/voice/google-voice-alternative) · [RingCentral](https://yunzheng.space/service/voice/ringcentral-alternative) · [Zoom Phone](https://yunzheng.space/service/voice/zoom-phone-alternative) · [Microsoft Teams Phone](https://yunzheng.space/service/voice/teams-phone-alternative) · [FreePBX](https://yunzheng.space/service/voice/freepbx-alternative) · [Asterisk](https://yunzheng.space/service/voice/asterisk-alternative) · [FreeSWITCH](https://yunzheng.space/service/voice/freeswitch-alternative)
+
+YunZheng Voice app: [Zoiper](https://yunzheng.space/service/voice/zoiper-alternative) · [MicroSIP](https://yunzheng.space/service/voice/microsip-alternative) · [Linphone](https://yunzheng.space/service/voice/linphone-alternative) · [Bria](https://yunzheng.space/service/voice/bria-alternative) · [Groundwire](https://yunzheng.space/service/voice/groundwire-alternative)
+
+YunZheng Workspace: [Google Workspace](https://yunzheng.space/service/workspace/google-workspace-alternative) · [Microsoft Teams and Outlook](https://yunzheng.space/service/workspace/teams-outlook-alternative) · [Zoom Workplace](https://yunzheng.space/service/workspace/zoom-workplace-alternative)
 
 YunZheng Meet: [Zoom](https://yunzheng.space/service/meet/zoom-alternative) · [Google Meet](https://yunzheng.space/service/meet/google-meet-alternative)
 
@@ -78,6 +86,10 @@ DNS 托管与 Shield(站点前的边缘网络)见 [Orbit 首页](https://orbit.y
 | [YunZheng 语音](https://yunzheng.space/service/voice.zh) | 浏览器里的电话：用分机拨打、接听来电、语音信箱、通话记录、呼叫转移与队列签入，外加一个同时呼叫你所有设备的免费号码。 |
 | [YunZheng 会议](https://yunzheng.space/service/meet.zh) | 免费的网页在线会议：无需下载，来宾凭链接加入。等候室、屏幕共享、实时字幕、分组讨论、投票与云端录制。 |
 | [YunZheng 邮箱](https://yunzheng.space/service/mail.zh) | 使用你自己域名的网页邮箱：会话、标签、过滤器、撤销发送、延后、搜索、共享信箱与邮件组。个人使用免费。 |
+| [YunZheng Workspace](https://yunzheng.space/service/workspace.zh) | 邮箱、会议和语音的桌面与移动应用，一次登录，新邮件提醒。支持 macOS、Windows 和 Android，iPhone 版即将推出。 |
+| [YunZheng Voice 应用](https://yunzheng.space/service/voice/softphone.zh) | 免费的 SIP 软电话，支持 macOS、Windows 和 Android：适用于任意 SIP 电话系统，登录即可使用 YunZheng 语音号码；桌面上有来电窗口。 |
+
+下载：[yunzheng.space/zh/downloads](https://yunzheng.space/zh/downloads) · 版本发布：[yunzheng2006/yunzheng-apps](https://github.com/yunzheng2006/yunzheng-apps/releases)
 
 ---
 
